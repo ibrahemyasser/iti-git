@@ -3,6 +3,10 @@ function commit1(){
 }
 
 function commit2(){
-    console.log("hello from branch dev")
     console.log("Main line")
+}
+
+function devFunction(){
+    console.log("hello from branch dev")
+    console.log("Dev line")
 }
